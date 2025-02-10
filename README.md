@@ -1,7 +1,5 @@
 # Customer Churn Analysis and EDA
 
-## Overview
-Customer churn analysis is crucial for businesses seeking to understand customer retention and reduce the loss of valuable clients. In this project, we perform an exploratory data analysis (EDA) to investigate patterns, factors, and trends that influence customer churn. By analyzing customer behaviors, we can derive actionable insights to improve customer retention strategies. This project uses Python and various data science libraries to explore the dataset and present findings that can guide businesses toward minimizing churn and enhancing customer satisfaction.
 
 ## Project Description
 The objective of this analysis is to identify key factors affecting customer churn in a telecom company. The analysis begins with the exploration of the dataset, followed by data preprocessing, visualization, and statistical examination. We aim to uncover relationships between customer demographics, usage patterns, and churn rates. The project covers the following key steps:
